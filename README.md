@@ -63,7 +63,7 @@ git remote add origin https://github.com/alexhkurz/introduction-to-jupyter-book.
 git push -u origin main
 ```
 
-After this the files were uploaded to [`https://github.com/alexhkurz/introduction-to-jupyter-book`](https://github.com/alexhkurz/introduction-to-jupyter-book).
+Since then the files are available at [`https://github.com/alexhkurz/introduction-to-jupyter-book`](https://github.com/alexhkurz/introduction-to-jupyter-book).
 
 
 ### Publishing
@@ -80,7 +80,11 @@ and then publish the book by running
 ghp-import -n -p -f _build/html
 ```
 
-This makes the [book available online](https://alexhkurz.github.io/introduction-to-jupyter-book) (possibly after some waiting time). It also keeps the source files in the `main`-branch separate from the files in `_build` in the `gh-pages` branch.
+This makes the book available online at 
+
+[`https://alexhkurz.github.io/introduction-to-jupyter-book`](https://alexhkurz.github.io/introduction-to-jupyter-book) 
+
+(possibly after some waiting time). It also keeps the source files in the `main`-branch separate from the files in `_build` in the `gh-pages` branch.
 
 ### important commands
 
