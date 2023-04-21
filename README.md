@@ -80,7 +80,7 @@ and then publish the book by running
 ghp-import -n -p -f _build/html
 ```
 
-This makes the [book available online](https://alexhkurz.github.io/introduction-to-jupyter-book). It also keeps the source files in the `main`-branch separate from the files in `_build` in the `gh-pages` branch.
+This makes the [book available online](https://alexhkurz.github.io/introduction-to-jupyter-book) (possibly after some waiting time). It also keeps the source files in the `main`-branch separate from the files in `_build` in the `gh-pages` branch.
 
 ### important commands
 
