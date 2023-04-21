@@ -1,6 +1,10 @@
 # Introduction to Jupyter Books
 
-Based on [Create your first book](https://jupyterbook.org/en/stable/start/your-first-book.html), the following steps were taken.
+This README describes how to create the book available at
+
+[`https://alexhkurz.github.io/introduction-to-jupyter-book`](https://alexhkurz.github.io/introduction-to-jupyter-book) 
+
+Based on the tutorial [Create your first book](https://jupyterbook.org/en/stable/start/your-first-book.html), the following steps were taken.
 
 ### Basics
 
