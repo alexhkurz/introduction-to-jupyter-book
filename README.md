@@ -86,7 +86,7 @@ This makes the book available online at
 
 (possibly after some waiting time). It also keeps the source files in the `main`-branch separate from the files in `_build` in the `gh-pages` branch.
 
-### important commands
+### Important Commands
 
 If, for example, the table of contents in the left-hand pane behaves in a strange way, clean out `_build`:
 
@@ -94,12 +94,9 @@ If, for example, the table of contents in the left-hand pane behaves in a strang
 jupyter-book clean .
 ```
 
-### references
+### References
 
-[Create your first book](https://jupyterbook.org/en/stable/start/your-first-book.html).
-
-[Math and equations](https://jupyterbook.org/en/stable/content/math.html#math-and-equations).
-
-[.gitignore](https://raw.githubusercontent.com/executablebooks/jupyter-book/master/.gitignore).
-
-[Publish your book online](https://jupyterbook.org/en/stable/start/publish.html).
+- [Create your first book](https://jupyterbook.org/en/stable/start/your-first-book.html).
+- [Math and equations](https://jupyterbook.org/en/stable/content/math.html#math-and-equations).
+- [.gitignore](https://raw.githubusercontent.com/executablebooks/jupyter-book/master/.gitignore).
+- [Publish your book online](https://jupyterbook.org/en/stable/start/publish.html).
